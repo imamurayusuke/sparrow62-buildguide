@@ -31,8 +31,8 @@ Sparrow 62 は 74th が頒布する自作キーボードキットです。
 最初は Lily58 からインスピレーションを得て、数々の改良を加えました。
 
 **using Kailh Choc V2 switches（keycap: DSA）**
-![](img/top_choc.jpg)
-![](img/top_choc2.jpg)
+![](img/v1/top_choc.jpg)
+![](img/v1/top_choc2.jpg)
 
 これは購入者がご自身で組み立てが必要なキットです。
 完成を保証するものではありません。
@@ -139,7 +139,7 @@ Sparrow 62 は 74th が頒布する自作キーボードキットです。
 
 ### Kailh Choc v2 を使う場合
 
-Kailh Choc v2 を使うの場合、足を 1 本切断する
+Kailh Choc v2 を使う場合、足を 1 本切断する
 
 Kailh Choc V2 has three copper wireand one of the red circles in the photo is cut with nippers.
 
@@ -147,7 +147,7 @@ Kailh Choc V2 では銅線の足が 3 つ出ていますが、このうち写真
 切断した際に発生する小さな破片にご注意ください。
 写真青丸の銅線は切断しないように気をつけてください。
 
-![](img/choc_v2.jpg)
+![](img/v1/choc_v2.jpg)
 
 ここできれいに切断すると、安定性が増します。
 
